@@ -62,6 +62,6 @@ Note: here algo is same as it was for `n=2`
 
 <br><br>
 
-> [Go Back](/solutions.md) (solutions menu)
+> [Go Back](./solutions.md) (solutions menu)
 
-> [Go Back](/README.md) (question page)
+> [Go Back](./README.md) (question page)
