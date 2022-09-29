@@ -37,7 +37,7 @@ Note:
    
   
 <br><br>
-   
-> [Go Back](/../..) (main page)
 
 > [Go To](./solutions.md) (Solutions menu)
+
+> [Go Back](/../..) (main page)
