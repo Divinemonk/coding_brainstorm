@@ -63,4 +63,5 @@ Note: here algo is same as it was for `n=2`
 <br><br>
 
 > [Go Back](/../../sierpinski_carpet/solutions.md) (solutions menu)
+
 > [Go Back](/../../sierpinski_carpet/README.md) (question page)
