@@ -1,4 +1,6 @@
-# Question
+# Question :question:
+
+### [Sierpinski Carpet](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_carpet)
 
 <br>
 
