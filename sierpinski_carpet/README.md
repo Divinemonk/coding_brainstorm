@@ -38,4 +38,4 @@ Note:
   
 <br><br>
    
-> [Go Back](/..) (main page)
+> [Go Back](/../..) (main page)
