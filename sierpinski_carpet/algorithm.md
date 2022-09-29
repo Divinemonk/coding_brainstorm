@@ -7,7 +7,6 @@ n   :  User entered number
 c   :  Counter value, iterates till n
 p   :  Stores main (formatted) pattern
 tp  :  Temporarily stores (unformatted) pattern
-tp2 :  Temporarily stores (unformatted) pattern 
 ```
 
 ### Shortcuts
@@ -26,22 +25,23 @@ x3  :  Print previous mentioned string trice (3 times)
 n = user enters 2
 
 
-tp = stores pattern when (c)n=0
-	p = print single '#'
+stores pattern when (c)n=0
+	tp =  single '#'
+	p = tp
 
 
-tp = stores pattern when (c)n=1
-	tp2 = prints             'p' x3 		(first line, only line)
-		  		 'p' '\s' 'p' 
-		  		 'p' x3			(first line, only line)
-	p = tp2
+stores pattern when (c)n=1
+	tp =               'p' x3 		  (first line, only line)
+		  	   'p' '\s' 'p' 
+		  	   'p' x3		  (first line, only line)
+	p = tp
 
 
-tp = stores pattern when (c)n=2
-	tp2 = prints             'p' x3 		(line by line)
-		  		 'p' '\s' 'p' 	 (line - space - line)
-		  		 'p' x3			(line by line) 
-	p = tp2 (if n>2)
+stores pattern when (c)n=2
+	tp =               'p' x3 		           (line by line)
+		           'p' '\s' 'p' 	    (line - space - line)
+		  	   'p' x3		           (line by line) 
+	p = tp (if n>2)
 
 ```
 
@@ -51,10 +51,10 @@ tp = stores pattern when (c)n=2
 ### Test cases `n =2 & >2`, have same algo
 Example (for n=3):
 ```
-tp = stores pattern when (c)n=3
-	tp2 = prints             'p' x3 		(line by line)
-		  		 'p' '\s' 'p' 	 (line - space - line)
-		  		 'p' x3			(line by line) 
+tstores pattern when (c)n=3
+	tp =              'p' x3 		           (line by line)
+		          'p' '\s' 'p' 	            (line - space - line)
+		  	  'p' x3		           (line by line) 
 ```
 Note: here algo is same as it was for `n=2`
 
