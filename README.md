@@ -3,4 +3,4 @@
 
 |Question :technologist: (Description) |Solution :computer: (Code) |
 |--|--|
-| [Sierpinski Carpet](/sierpinski_carpet) | [python](/sierpinski_carpet/code.md) |
+| [Sierpinski Carpet](/sierpinski_carpet) | [python](/sierpinski_carpet/solutions.md) |
