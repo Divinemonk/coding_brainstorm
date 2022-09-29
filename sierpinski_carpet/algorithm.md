@@ -10,7 +10,18 @@ tp  :  Temporarily stores (unformatted) pattern
 tp2 :  Temporarily stores (unformatted) pattern 
 ```
 
-### Main algo
+### Shortcuts
+```
+\s  :  Blank space
+x3  :  Print previous mentioned string trice (3 times)
+
+(first line, only line)  :  Pattern has only one line
+(line by line)		 :  Pattern has multiple lines, extract each line and use
+(line - space - line)	 :  Pattern has multiple lines, extract each line and use with [pattern - space - pattern]
+```
+
+
+### Main ___algo___ :eight_pointed_black_star:
 ```
 n = user enters 2
 
