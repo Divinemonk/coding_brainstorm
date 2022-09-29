@@ -3,4 +3,4 @@
 
 |Question (Description) |Solution (code) |
 |--|--|
-| [Sierpinski Carpet](/sierpinski_carpet/README.md) | [python](/sierpinski_carpet/code.md) |
+| [Sierpinski Carpet](/sierpinski_carpet) | [python](/sierpinski_carpet/code.md) |
