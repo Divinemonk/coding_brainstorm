@@ -49,7 +49,7 @@ tp = stores pattern when (c)n=2
 
 
 ### Test cases `n =2 & >2`, have same algo
-Example:
+Example (for n=3):
 ```
 tp = stores pattern when (c)n=3
 	tp2 = prints             'p' x3 		(line by line)
