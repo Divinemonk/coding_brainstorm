@@ -41,8 +41,10 @@ stores pattern when (c)n=2
 	tp =               'p' x3 		           (line by line)
 		           'p' '\s' 'p' 	    (line - space - line)
 		  	   'p' x3		           (line by line) 
-	p = tp (if n>2)
+	p = tp
 
+
+repeat step 3 (for n=2) till  c<n
 ```
 
 <br><br>
