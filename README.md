@@ -1,6 +1,6 @@
-# Coding Problems
+# Coding :brain: Brainstorm
 
 
-|Question (Description) |Solution (code) |
+|Question :technologist: (Description) |Solution :computer: (Code) |
 |--|--|
 | [Sierpinski Carpet](/sierpinski_carpet) | [python](/sierpinski_carpet/code.md) |
